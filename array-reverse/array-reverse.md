@@ -12,4 +12,4 @@
 
 ## White Boarding
 
-![](https://i.ibb.co/SnG33LL/My-First-Board-2.jpg)
+![](./img/shift.jpg)
