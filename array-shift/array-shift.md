@@ -2,7 +2,7 @@
 
     def insertShiftArray(arr,val):
      arrLength=len(arr)
-     if arrLength%2==0:
+     if arrLength %2 == 0:
         return(arr[:(arrLength//2)] + [val] + arr[(arrLength//2):])
      else:
         return(arr[:arrLength//2+1] +
