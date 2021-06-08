@@ -10,4 +10,4 @@
 
 ## White Boarding
 
-![](https://i.ibb.co/ZJ62KVK/array-shift.jpg)
+![](https://i.ibb.co/VSWhZbh/array-shift-1.jpg)
