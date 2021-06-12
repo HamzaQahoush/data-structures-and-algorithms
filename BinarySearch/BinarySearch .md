@@ -1,0 +1,20 @@
+## code
+
+    def BinarySearch (arr, target):
+    left = 0
+    right = len(arr) - 1
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+         return mid
+        elif target < arr[mid]:
+         right = mid - 1
+        else:
+            left = mid + 1
+    return -1
+
+## White Boarding
+
+![](https://i.ibb.co/NtqQzXw/array-binary-search.jpg)
+
+You can take look on [miro](https://miro.com/app/board/o9J_lAVhvac=/)
