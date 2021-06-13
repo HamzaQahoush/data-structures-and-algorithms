@@ -31,3 +31,4 @@ append method : to add node at last of linked list.
 insert method :to add node at head of linked list.
 include : to check of value of nodes in linked listand return True , False
 **str** : return a string with specfic from with values.
+insert method before or after specfic value.
