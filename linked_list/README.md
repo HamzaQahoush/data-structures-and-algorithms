@@ -23,6 +23,11 @@ also we need if statements and while loops .
 
 When accessing elements of a linked list, speed is proportional to size of the list with Big O(n)
 
+
+• When inserting a node into the beginning of the list, it only involves creating a new node with an address that points to the old head.
+
+The time it takes to perform this is not dependent on the size of the list. This means that it will be constant time or a Big O(1).
+
 • When inserting a node into the beginning of the list, it only involves creating a new node with an address that points to the old head. The time it takes to perform this is not dependent on the size of the list. This means that it will be constant time or a Big O(1).
 
 ## API
@@ -36,3 +41,13 @@ insert method :to add node at head of linked list.
 include : to check of value of nodes in linked listand return True , False
 
 **str** : return a string with specfic from with values.
+
+insert method before or after specfic value.
+
+### Linked list
+
+- [x] insert at begining
+- [x] append at last of linked list
+- [x] insert before specfic value
+- [x] insert after specfic value
+- [x] test if a value included.
