@@ -5,7 +5,7 @@ return the index of the array’s element that is equal to the value of the sear
 
 ## Whiteboard Process
 
-![](https://i.ibb.co/NtqQzXw/array-binary-search.jpg)
+![](https://i.ibb.co/dkQCkzK/code-challenges-6.jpg)
 
 You can take look on [miro](https://miro.com/app/board/o9J_lAVhvac=/)
 
